@@ -1,0 +1,39 @@
+.header{
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  width: 100%;
+  justify-content: space-between;
+  }
+.logo{
+  text-align: left;
+  justify-content: flex-start;
+  padding-left: 50px;
+}
+.favicons{
+  text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+  }
+
+.footer{
+  background:#396EB0 ;
+}
+
+.content-header{
+  padding-top: 50px;
+}
+
+.content-search{
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.News-description h3{
+  color: white;
+  background:#396EB0 ;
+  width: 20%;
+}
