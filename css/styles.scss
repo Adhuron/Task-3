@@ -4,18 +4,20 @@
   align-items: baseline;
   width: 100%;
   justify-content: space-between;
+  .logo{
+    text-align: left;
+    justify-content: flex-start;
+    padding-left: 50px;
   }
-.logo{
-  text-align: left;
-  justify-content: flex-start;
-  padding-left: 50px;
-}
-.favicons{
-  text-align: right;
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 50px;
+  .favicons{
+    text-align: right;
+      display: flex;
+      justify-content: flex-end;
+      padding-right: 50px;
+    }
   }
+
+
 
 .footer{
   background:#396EB0 ;

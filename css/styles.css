@@ -15,7 +15,7 @@
           justify-content: space-between;
 }
 
-.logo {
+.header .logo {
   text-align: left;
   -webkit-box-pack: start;
       -ms-flex-pack: start;
@@ -23,7 +23,7 @@
   padding-left: 50px;
 }
 
-.favicons {
+.header .favicons {
   text-align: right;
   display: -webkit-box;
   display: -ms-flexbox;
